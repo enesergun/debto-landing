@@ -5,7 +5,7 @@ import React, { useState } from "react";
 import { Transition } from "@headlessui/react";
 import { HiOutlineXMark, HiBars3 } from "react-icons/hi2";
 import Container from "./Container";
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from "react-i18next";
 import Image from "next/image";
 
 const Header: React.FC = () => {
@@ -17,9 +17,9 @@ const Header: React.FC = () => {
 
   const { t, i18n } = useTranslation();
   const navigation = [
-    { key: 'menu.features', url: '#features' },
-    { key: 'menu.faq', url: '#sss' },
-    { key: 'menu.testimonials', url: '#testimonials' },
+    { key: "menu.features", url: "#features" },
+    { key: "menu.faq", url: "#sss" },
+    { key: "menu.testimonials", url: "#testimonials" },
   ];
 
   return (
@@ -45,22 +45,31 @@ const Header: React.FC = () => {
             ))}
             <li>
               <Link
-                href="#cta"
+                href="https://app.debto.money/"
+                target="_blank"
                 className="text-secondary bg-primary hover:bg-primary-accent px-8 py-3 rounded-full transition-colors"
               >
-                {t('header.ctaButton')}
+                {t("header.ctaButton")}
               </Link>
             </li>
             {/* Language flags grouped */}
             <li className="flex items-center space-x-2">
               <button
-                onClick={() => i18n.changeLanguage('en')}
-                className={`text-2xl ${i18n.language === 'en' ? 'opacity-100' : 'opacity-50 hover:opacity-100'} transition-opacity`}
-              >🇬🇧</button>
+                onClick={() => i18n.changeLanguage("en")}
+                className={`text-2xl ${
+                  i18n.language === "en" ? "opacity-100" : "opacity-50 hover:opacity-100"
+                } transition-opacity`}
+              >
+                🇬🇧
+              </button>
               <button
-                onClick={() => i18n.changeLanguage('tr')}
-                className={`text-2xl ${i18n.language === 'tr' ? 'opacity-100' : 'opacity-50 hover:opacity-100'} transition-opacity`}
-              >🇹🇷</button>
+                onClick={() => i18n.changeLanguage("tr")}
+                className={`text-2xl ${
+                  i18n.language === "tr" ? "opacity-100" : "opacity-50 hover:opacity-100"
+                } transition-opacity`}
+              >
+                🇹🇷
+              </button>
             </li>
           </ul>
 
@@ -113,20 +122,30 @@ const Header: React.FC = () => {
                 className="bg-primary hover:bg-primary-accent px-5 py-2 rounded-full block w-fit"
                 onClick={toggleMenu}
               >
-                {t('header.ctaButton')}
+                {t("header.ctaButton")}
               </Link>
             </li>
             {/* Mobile language flags */}
             <li className="flex space-x-2">
               <button
-                onClick={() => { i18n.changeLanguage('en'); toggleMenu(); }}
-                className={`text-2xl ${i18n.language === 'en' ? 'opacity-100' : 'opacity-50 hover:opacity-100'} transition-opacity`}
+                onClick={() => {
+                  i18n.changeLanguage("en");
+                  toggleMenu();
+                }}
+                className={`text-2xl ${
+                  i18n.language === "en" ? "opacity-100" : "opacity-50 hover:opacity-100"
+                } transition-opacity`}
               >
                 🇬🇧
               </button>
               <button
-                onClick={() => { i18n.changeLanguage('tr'); toggleMenu(); }}
-                className={`text-2xl ${i18n.language === 'tr' ? 'opacity-100' : 'opacity-50 hover:opacity-100'} transition-opacity`}
+                onClick={() => {
+                  i18n.changeLanguage("tr");
+                  toggleMenu();
+                }}
+                className={`text-2xl ${
+                  i18n.language === "tr" ? "opacity-100" : "opacity-50 hover:opacity-100"
+                } transition-opacity`}
               >
                 🇹🇷
               </button>
