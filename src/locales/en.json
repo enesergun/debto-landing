@@ -1,0 +1,111 @@
+{
+  "siteDetails": {
+    "metadata": {
+      "title": "debto - Debt Tracking App",
+      "description": "Track all your debts easily with debto. Add amount and due date, never miss your upcoming payments. Simple and reliable debt management at your fingertips!"
+    },
+    "siteName": "debto"
+  },
+  "menu": {
+    "features": "Features",
+    "faq": "FAQ",
+    "testimonials": "User Testimonials"
+  },
+  "header": {
+    "ctaButton": "Go to App"
+  },
+  "footer": {
+    "subheading": "Track your debts, take control of your finances.",
+    "linksHeader": "Links",
+    "contactHeader": "Contact Us",
+    "emailLabel": "Email:",
+    "phoneLabel": "Phone:"
+  },
+  "cta": {
+    "heading": "Manage Your Debts With One Click!",
+    "subheading": "debto is coming soon to the App Store and Google Play Store!"
+  },
+  "hero": {
+    "heading": "Fast and Easy Debt Tracking",
+    "subheading": "Enter your debt amount and due date, see your upcoming payments. Mark paid debts and stay in control. Debto makes debt tracking easy."
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "intro": "FAQ'S"
+  },
+  "faq": {
+    "0": {
+      "question": "What is debto and what does it do?",
+      "answer": "debto is a web application that helps you track your personal debts. You can enter debt amounts and due dates to view upcoming payments, and mark paid debts to easily manage your financial status."
+    },
+    "1": {
+      "question": "How can I add a debt to the app?",
+      "answer": "Click the 'Add Debt' button on the main screen and enter the debt amount, due date, and description to create a new debt record."
+    },
+    "2": {
+      "question": "How can I mark a debt as paid?",
+      "answer": "In the debt list, click the 'Paid' option next to the relevant debt to mark it as paid. This keeps your debt list up to date."
+    },
+    "3": {
+      "question": "How do I view upcoming payments?",
+      "answer": "On the homepage, debts with approaching due dates are automatically listed. This allows you to easily track the time remaining for each debt."
+    },
+    "4": {
+      "question": "Is my data secure?",
+      "answer": "Yes. Your records are stored securely and are only accessible by you. Your data is protected and not shared with any other users."
+    }
+  },
+  "testimonialsSection": {
+    "title": "What Our Users Say",
+    "description": "Hear from our loyal users."
+  },
+  "testimonials": {
+    "0": {
+      "name": "Mehmet Yıldırım",
+      "role": "Senior Executive",
+      "message": "I started using debto and my life changed. It helped me manage my finances better. Now tracking my debts is so easy!",
+      "avatar": "/images/testimonial.webp"
+    },
+    "1": {
+      "name": "Berat Akbayram",
+      "role": "Former Senior Executive",
+      "message": "I wish I had discovered debto during my tenure as a Senior Executive. I believe it's a very important platform. It's a great app to track my debts.",
+      "avatar": "/images/testimonial.webp"
+    },
+    "2": {
+      "name": "Nurullah Sebati",
+      "role": "Ophthalmologist",
+      "message": "Since I started using debto, the sparkle in my eyes has increased. It's a fantastic app to track my debts. Now tracking my debts is so easy!",
+      "avatar": "/images/testimonial.webp"
+    }
+  },
+  "benefits": {
+    "0": {
+      "title": "Fast and Practical",
+      "description": "Add your debts in seconds. Enter the amount and date to create your record instantly. Effortless debt tracking has never been easier!",
+      "bullets": {
+        "0": { "title": "Quick Entry", "description": "Create a new debt record in just a few taps to start tracking without wasting time." },
+        "1": { "title": "User-Friendly Interface", "description": "With a clean and intuitive design, manage all your records in seconds." },
+        "2": { "title": "Instant Date and Amount Entry", "description": "Enter the due date and amount, and debto will remind you automatically." }
+      }
+    },
+    "1": {
+      "title": "View All Debts in One Screen",
+      "description": "Track your debts in a list. See amounts, dates, and payment statuses all on one screen to stay in control.",
+      "bullets": {
+        "0": { "title": "All Debts in One Place", "description": "Never lose track of your debts! View all debts in a single, organized list with amounts and due dates." },
+        "1": { "title": "Paid or Unpaid at a Glance", "description": "Spot payment statuses instantly with colored tags. Avoid missing deadlines and manage payments on time." },
+        "2": { "title": "Update Status with One Tap", "description": "Mark a debt as 'Paid' with one tap. The app keeps your list updated for you." }
+      }
+    },
+    "2": {
+      "title": "View Total Debt Instantly",
+      "description": "Get a bird's-eye view of your financial situation! Keep track of the total amount of all active debts in real time.",
+      "bullets": {
+        "0": { "title": "Never Miss Upcoming Payments", "description": "Prioritize debts approaching due dates. Eliminate the risk of late payments by paying on time." },
+        "1": { "title": "Add New Debt, Manage Easily", "description": "Adding a debt now takes seconds. Strengthen your tracking with quick entry." },
+        "2": { "title": "One-Tap Access to Detailed List", "description": "Want to see all your debts? Switch to the detailed list view with one tap!" }
+      }
+    }
+  }
+} 

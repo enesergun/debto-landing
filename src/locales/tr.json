@@ -1,0 +1,111 @@
+{
+  "siteDetails": {
+    "metadata": {
+      "title": "debto - Borç Takip Uygulaması",
+      "description": "debto ile tüm borçlarını kolayca takip et. Tutar ve son ödeme tarihi ekle, yaklaşan ödemelerini kaçırma. Basit ve güvenilir borç yönetimi artık seninle!"
+    },
+    "siteName": "debto"
+  },
+  "menu": {
+    "features": "Özellikler",
+    "faq": "SSS",
+    "testimonials": "Kullanıcı Yorumları"
+  },
+  "header": {
+    "ctaButton": "Uygulamaya Git"
+  },
+  "footer": {
+    "subheading": "Borçlarını takip et, finansal kontrolü eline al.",
+    "linksHeader": "Linkler",
+    "contactHeader": "İletişime Geçin",
+    "emailLabel": "Email:",
+    "phoneLabel": "Telefon:"
+  },
+  "cta": {
+    "heading": "Tek Tıkla Borçlarını Yönet!",
+    "subheading": "debto çok yakında App Store ve Google Play Store'da!"
+  },
+  "hero": {
+    "heading": "Hızlı ve Kolay Borç Takibi",
+    "subheading": "Borç tutarını ve son ödeme tarihini gir, yaklaşan ödemelerini gör. Ödediğin borçları işaretle, kontrol sende olsun. Debto, borçlarını düzenli şekilde takip etmeni kolaylaştırır."
+  },
+  "faqSection": {
+    "title": "Sık Sorulan Sorular",
+    "intro": "FAQ'S"
+  },
+  "faq": {
+    "0": {
+      "question": "debto uygulaması nedir ve ne işe yarar",
+      "answer": "debto, kişisel borçlarınızı takip etmenizi sağlayan bir web uygulamasıdır. Borç miktarlarını, ödeme tarihlerini girerek yaklaşan ödemelerinizi görebilir, ödenmiş borçları işaretleyerek finansal durumunuzu kolayca yönetebilirsiniz."
+    },
+    "1": {
+      "question": "Uygulamaya nasıl borç ekleyebilirim?",
+      "answer": "Ana ekrandaki \"Borç Ekle\" butonuna tıklayarak borç miktarını, son ödeme tarihini ve açıklamayı girerek yeni bir borç kaydı oluşturabilirsiniz."
+    },
+    "2": {
+      "question": "Ödediğim bir borcu nasıl işaretleyebilirim?",
+      "answer": "Borçlar listesinde ilgili borcun yanındaki \"Ödendi\" seçeneğine tıklayarak borcunuzu ödenmiş olarak işaretleyebilirsiniz. Bu sayede borç listeniz güncel kalır."
+    },
+    "3": {
+      "question": "Yaklaşan ödemeleri nasıl görebilirim?",
+      "answer": "Ana sayfada, ödeme tarihi yaklaşan borçlar otomatik olarak listelenir. Böylece hangi borç için ne kadar süre kaldığını kolayca takip edebilirsiniz."
+    },
+    "4": {
+      "question": "Kayıtlarım güvende mi?",
+      "answer": "Evet. Kayıtlarınız sadece sizin erişiminize açık şekilde saklanır. Verileriniz güvenli bir şekilde korunur ve başka kullanıcılarla paylaşılmaz."
+    }
+  },
+  "testimonialsSection": {
+    "title": "Kullanıcılarımız Ne Diyor?",
+    "description": "debto'yu müdavimlerinden dinleyin."
+  },
+  "testimonials": {
+    "0": {
+      "name": "Mehmet Yıldırım",
+      "role": "Üst Düzey Yönetici",
+      "message": "debto'yu kullanmaya başladım ve hayatım değişti. Ekonomiyi daha iyi yönetmeme yardımcı oldu. Artık borçlarımı takip etmek çok kolay!",
+      "avatar": "/images/testimonial.webp"
+    },
+    "1": {
+      "name": "Berat Akbayram",
+      "role": "Eski Üst Düzey Yönetici",
+      "message": "Üst Düzey Yönetici olarak çalıştığım dönemde debto ile tanışmış olmayı isterdim. Burasının çok önemli olduğunu düşünüyorum. Borçlarımı takip etmek için harika bir uygulama.",
+      "avatar": "/images/testimonial.webp"
+    },
+    "2": {
+      "name": "Nurullah Sebati",
+      "role": "Göz Doktoru",
+      "message": "debto kullandığım günden beri gözlerimdeki ışıltının arttığını söyleyebilirim. Borçlarımı takip etmek için harika bir uygulama. Artık borçlarımı takip etmek çok kolay!",
+      "avatar": "/images/testimonial.webp"
+    }
+  },
+  "benefits": {
+    "0": {
+      "title": "Hızlı ve Pratik",
+      "description": "Borçlarını saniyeler içinde ekle. Tutar ve tarih bilgisini gir, kaydını anında oluştur. Zahmetsiz borç takibi artık çok kolay!",
+      "bullets": {
+        "0": { "title": "Hızlı Kayıt Ekleme", "description": "Birkaç dokunuşla yeni bir borç kaydı oluştur, zaman kaybetmeden takibe başla." },
+        "1": { "title": "Kullanımı Kolay Arayüz", "description": "Sade ve anlaşılır tasarım sayesinde tüm kayıtlarını birkaç saniyede yönet." },
+        "2": { "title": "Anında Tarih ve Tutar Girişi", "description": "Son ödeme tarihi ve tutarı gir, debto senin yerine hatırlasın." }
+      }
+    },
+    "1": {
+      "title": "Tüm Borçları Tek Ekranda Görüntüle",
+      "description": "Borçlarını liste halinde takip et. Tutar, tarih ve ödeme durumlarını tek ekranda gör, kontrolü kaybetme.",
+      "bullets": {
+        "0": { "title": "Tüm Borçların Tek Yerde", "description": "Borçlarını kaybetmeye son! Tutar ve son ödeme tarihiyle birlikte tüm borçlarını tek bir listede düzenli şekilde gör." },
+        "1": { "title": "Ödendi mi, Ödenmedi mi? Hemen Gör", "description": "Renkli etiketlerle ödeme durumlarını anında fark et. Geciken borçları kaçırma, zamanında ödeme fırsatını kaçırma." },
+        "2": { "title": "Durumu Tek Dokunuşla Güncelle", "description": "Bir tıkla borcunu 'ödendi' olarak işaretle. Uygulama senin yerine listeyi güncel tutsun." }
+      }
+    },
+    "2": {
+      "title": "Toplam Borcunu Anında Gör",
+      "description": "Finansal durumuna kuş bakışı bak! Tüm aktif borçlarının toplam tutarını ekranda anlık olarak takip et.",
+      "bullets": {
+        "0": { "title": "Yaklaşan Ödemeleri Kaçırma", "description": "Son ödeme tarihi yaklaşan borçlarını öncelikli olarak görüntüle. Gecikme riskini ortadan kaldır, zamanında öde." },
+        "1": { "title": "Yeni Borç Ekle, Kolayca Yönet", "description": "Borç eklemek artık saniyeler sürüyor. Hızlı giriş ile takibini güçlendir." },
+        "2": { "title": "Detaylı Listeye Tek Tıkla Ulaş", "description": "Tüm borçlarını görmek mi istiyorsun? Tek tuşla detaylı liste ekranına geç!" }
+      }
+    }
+  }
+} 
