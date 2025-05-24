@@ -1,7 +1,7 @@
 {
   "siteDetails": {
     "metadata": {
-      "title": "debto - Debt Tracking App",
+      "title": "debto - Easily Manage Your Debts",
       "description": "Track all your debts easily with debto. Add amount and due date, never miss your upcoming payments. Simple and reliable debt management at your fingertips!"
     },
     "siteName": "debto"
@@ -84,28 +84,55 @@
       "title": "Fast and Practical",
       "description": "Add your debts in seconds. Enter the amount and date to create your record instantly. Effortless debt tracking has never been easier!",
       "bullets": {
-        "0": { "title": "Quick Entry", "description": "Create a new debt record in just a few taps to start tracking without wasting time." },
-        "1": { "title": "User-Friendly Interface", "description": "With a clean and intuitive design, manage all your records in seconds." },
-        "2": { "title": "Instant Date and Amount Entry", "description": "Enter the due date and amount, and debto will remind you automatically." }
+        "0": {
+          "title": "Quick Entry",
+          "description": "Create a new debt record in just a few taps to start tracking without wasting time."
+        },
+        "1": {
+          "title": "User-Friendly Interface",
+          "description": "With a clean and intuitive design, manage all your records in seconds."
+        },
+        "2": {
+          "title": "Instant Date and Amount Entry",
+          "description": "Enter the due date and amount, and debto will remind you automatically."
+        }
       }
     },
     "1": {
       "title": "View All Debts in One Screen",
       "description": "Track your debts in a list. See amounts, dates, and payment statuses all on one screen to stay in control.",
       "bullets": {
-        "0": { "title": "All Debts in One Place", "description": "Never lose track of your debts! View all debts in a single, organized list with amounts and due dates." },
-        "1": { "title": "Paid or Unpaid at a Glance", "description": "Spot payment statuses instantly with colored tags. Avoid missing deadlines and manage payments on time." },
-        "2": { "title": "Update Status with One Tap", "description": "Mark a debt as 'Paid' with one tap. The app keeps your list updated for you." }
+        "0": {
+          "title": "All Debts in One Place",
+          "description": "Never lose track of your debts! View all debts in a single, organized list with amounts and due dates."
+        },
+        "1": {
+          "title": "Paid or Unpaid at a Glance",
+          "description": "Spot payment statuses instantly with colored tags. Avoid missing deadlines and manage payments on time."
+        },
+        "2": {
+          "title": "Update Status with One Tap",
+          "description": "Mark a debt as 'Paid' with one tap. The app keeps your list updated for you."
+        }
       }
     },
     "2": {
       "title": "View Total Debt Instantly",
       "description": "Get a bird's-eye view of your financial situation! Keep track of the total amount of all active debts in real time.",
       "bullets": {
-        "0": { "title": "Never Miss Upcoming Payments", "description": "Prioritize debts approaching due dates. Eliminate the risk of late payments by paying on time." },
-        "1": { "title": "Add New Debt, Manage Easily", "description": "Adding a debt now takes seconds. Strengthen your tracking with quick entry." },
-        "2": { "title": "One-Tap Access to Detailed List", "description": "Want to see all your debts? Switch to the detailed list view with one tap!" }
+        "0": {
+          "title": "Never Miss Upcoming Payments",
+          "description": "Prioritize debts approaching due dates. Eliminate the risk of late payments by paying on time."
+        },
+        "1": {
+          "title": "Add New Debt, Manage Easily",
+          "description": "Adding a debt now takes seconds. Strengthen your tracking with quick entry."
+        },
+        "2": {
+          "title": "One-Tap Access to Detailed List",
+          "description": "Want to see all your debts? Switch to the detailed list view with one tap!"
+        }
       }
     }
   }
-} 
+}
