@@ -1,7 +1,7 @@
 {
   "siteDetails": {
     "metadata": {
-      "title": "debto - Borç Takip Uygulaması",
+      "title": "debto - Borçlarını Kolayca Yönet",
       "description": "debto ile tüm borçlarını kolayca takip et. Tutar ve son ödeme tarihi ekle, yaklaşan ödemelerini kaçırma. Basit ve güvenilir borç yönetimi artık seninle!"
     },
     "siteName": "debto"
@@ -84,28 +84,55 @@
       "title": "Hızlı ve Pratik",
       "description": "Borçlarını saniyeler içinde ekle. Tutar ve tarih bilgisini gir, kaydını anında oluştur. Zahmetsiz borç takibi artık çok kolay!",
       "bullets": {
-        "0": { "title": "Hızlı Kayıt Ekleme", "description": "Birkaç dokunuşla yeni bir borç kaydı oluştur, zaman kaybetmeden takibe başla." },
-        "1": { "title": "Kullanımı Kolay Arayüz", "description": "Sade ve anlaşılır tasarım sayesinde tüm kayıtlarını birkaç saniyede yönet." },
-        "2": { "title": "Anında Tarih ve Tutar Girişi", "description": "Son ödeme tarihi ve tutarı gir, debto senin yerine hatırlasın." }
+        "0": {
+          "title": "Hızlı Kayıt Ekleme",
+          "description": "Birkaç dokunuşla yeni bir borç kaydı oluştur, zaman kaybetmeden takibe başla."
+        },
+        "1": {
+          "title": "Kullanımı Kolay Arayüz",
+          "description": "Sade ve anlaşılır tasarım sayesinde tüm kayıtlarını birkaç saniyede yönet."
+        },
+        "2": {
+          "title": "Anında Tarih ve Tutar Girişi",
+          "description": "Son ödeme tarihi ve tutarı gir, debto senin yerine hatırlasın."
+        }
       }
     },
     "1": {
       "title": "Tüm Borçları Tek Ekranda Görüntüle",
       "description": "Borçlarını liste halinde takip et. Tutar, tarih ve ödeme durumlarını tek ekranda gör, kontrolü kaybetme.",
       "bullets": {
-        "0": { "title": "Tüm Borçların Tek Yerde", "description": "Borçlarını kaybetmeye son! Tutar ve son ödeme tarihiyle birlikte tüm borçlarını tek bir listede düzenli şekilde gör." },
-        "1": { "title": "Ödendi mi, Ödenmedi mi? Hemen Gör", "description": "Renkli etiketlerle ödeme durumlarını anında fark et. Geciken borçları kaçırma, zamanında ödeme fırsatını kaçırma." },
-        "2": { "title": "Durumu Tek Dokunuşla Güncelle", "description": "Bir tıkla borcunu 'ödendi' olarak işaretle. Uygulama senin yerine listeyi güncel tutsun." }
+        "0": {
+          "title": "Tüm Borçların Tek Yerde",
+          "description": "Borçlarını kaybetmeye son! Tutar ve son ödeme tarihiyle birlikte tüm borçlarını tek bir listede düzenli şekilde gör."
+        },
+        "1": {
+          "title": "Ödendi mi, Ödenmedi mi? Hemen Gör",
+          "description": "Renkli etiketlerle ödeme durumlarını anında fark et. Geciken borçları kaçırma, zamanında ödeme fırsatını kaçırma."
+        },
+        "2": {
+          "title": "Durumu Tek Dokunuşla Güncelle",
+          "description": "Bir tıkla borcunu 'ödendi' olarak işaretle. Uygulama senin yerine listeyi güncel tutsun."
+        }
       }
     },
     "2": {
       "title": "Toplam Borcunu Anında Gör",
       "description": "Finansal durumuna kuş bakışı bak! Tüm aktif borçlarının toplam tutarını ekranda anlık olarak takip et.",
       "bullets": {
-        "0": { "title": "Yaklaşan Ödemeleri Kaçırma", "description": "Son ödeme tarihi yaklaşan borçlarını öncelikli olarak görüntüle. Gecikme riskini ortadan kaldır, zamanında öde." },
-        "1": { "title": "Yeni Borç Ekle, Kolayca Yönet", "description": "Borç eklemek artık saniyeler sürüyor. Hızlı giriş ile takibini güçlendir." },
-        "2": { "title": "Detaylı Listeye Tek Tıkla Ulaş", "description": "Tüm borçlarını görmek mi istiyorsun? Tek tuşla detaylı liste ekranına geç!" }
+        "0": {
+          "title": "Yaklaşan Ödemeleri Kaçırma",
+          "description": "Son ödeme tarihi yaklaşan borçlarını öncelikli olarak görüntüle. Gecikme riskini ortadan kaldır, zamanında öde."
+        },
+        "1": {
+          "title": "Yeni Borç Ekle, Kolayca Yönet",
+          "description": "Borç eklemek artık saniyeler sürüyor. Hızlı giriş ile takibini güçlendir."
+        },
+        "2": {
+          "title": "Detaylı Listeye Tek Tıkla Ulaş",
+          "description": "Tüm borçlarını görmek mi istiyorsun? Tek tuşla detaylı liste ekranına geç!"
+        }
       }
     }
   }
-} 
+}

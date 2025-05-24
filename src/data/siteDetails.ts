@@ -1,8 +1,8 @@
 export const siteDetails = {
   siteName: "debto",
-  siteUrl: "https://finwise-omega.vercel.app/",
+  siteUrl: "https://debto.money/",
   metadata: {
-    title: "debto - Borç Takip Uygulaması",
+    title: "debto - Borçlarını Kolayca Yönet",
     description:
       "debto ile tüm borçlarını kolayca takip et. Tutar ve son ödeme tarihi ekle, yaklaşan ödemelerini kaçırma. Basit ve güvenilir borç yönetimi artık seninle!",
   },
